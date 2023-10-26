@@ -1,12 +1,12 @@
-
-  Data da ultima modificação: 25/10/2023
-
-  Autores: 
+ #Autores: 
     Kaique de Godoy Silva
     Luiz Antonio Brugger Martinez
     Thiago Silva Barbosa
 
-  Descrição:
+  ##Data da ultima modificação: 25/10/2023
+
+
+  #Descrição:
 
   Este é um projeto que foi desenvolvido com o
   intuito de controlar o acesso a uma porta 
