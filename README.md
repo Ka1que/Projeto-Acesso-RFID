@@ -1,12 +1,12 @@
- #Autores: 
+ # Autores: 
     Kaique de Godoy Silva
     Luiz Antonio Brugger Martinez
     Thiago Silva Barbosa
 
-  ##Data da ultima modificação: 25/10/2023
+  ## Data da ultima modificação: 25/10/2023
 
 
-  #Descrição:
+  # Descrição:
 
   Este é um projeto que foi desenvolvido com o
   intuito de controlar o acesso a uma porta 
@@ -32,16 +32,16 @@
   Adiadas pela dificuldade e extensão mas elas
   seriam as seguintes:
 
-  -Adição de um meio para registrar cartões novos
-    e também não ser resetado quando arduino for 
-    reiniciado 
+  - Adição de um meio para registrar cartões novos
+     e também não ser resetado quando arduino for 
+     reiniciado 
 
-  -Adição de uma conexão com a rede para o caso
-    de portas que precisam de mais atenção nos 
-    acessos pois com a rede pode ter registros
-    e ser lançados em um sistema grande de 
-    gerenciamento
+  - Adição de uma conexão com a rede para o caso
+     de portas que precisam de mais atenção nos 
+     acessos pois com a rede pode ter registros
+     e ser lançados em um sistema grande de 
+     gerenciamento
 
-  -Definir um modo de trava para o local que
-    será bem adaptável e não muito vulneravél
-    e que deve ser controlada pelo arduino  
+  - Definir um modo de trava para o local que
+     será bem adaptável e não muito vulneravél
+     e que deve ser controlada pelo arduino  
