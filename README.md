@@ -10,12 +10,10 @@
 
   Este é um projeto que foi desenvolvido com o
   intuito de controlar o acesso a uma porta 
-<<<<<<< HEAD
   <br /> 
   
   ![image](https://github.com/Ka1que/Projeto-Acesso-RFID/blob/main/RFID_Controle_Acesso.jpg)
-=======
->>>>>>> 894a0f38073c217b6326fd199ac7f033d7312ebd
+
 
   É bem simples mas uma vez o arduino alimentado a
   Luz azul irá começar a piscar simbolizando que 
